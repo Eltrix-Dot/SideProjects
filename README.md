@@ -10,7 +10,7 @@
 ---
 
 </div>
-Welcome to my **SideProjects** repository! This is a collection of various experiments, scripts, and prototypes. It serves as a personal sandbox where I explore new ideas, refine my coding skills, and build small-scale and big-scale tools.
+Welcome to my SideProjects repository! This is a collection of various experiments, scripts, and prototypes. It serves as a personal sandbox where I explore new ideas, refine my coding skills, and build small-scale and big-scale tools.
 
 ## 🤖 Featured Projects
 This repository houses snippets and early-stage code inspired by my main works:
