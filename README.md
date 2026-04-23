@@ -5,7 +5,7 @@
 ![Open Source](https://img.shields.io/badge/Open_Source-OPSF-brightgreen.svg)
 ![Philosophy](https://img.shields.io/badge/Philosophy-PPFE-orange.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blueviolet.svg)
-![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord-py-7289DA?logo=discord&logoColor=white)
 ---
 
