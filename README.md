@@ -1,11 +1,15 @@
+<div align="center">
 # SideProjects 🚀
+
 ![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg) 
 ![Open Source](https://img.shields.io/badge/Open_Source-OPSF-brightgreen.svg)
 ![Philosophy](https://img.shields.io/badge/Philosophy-PPFE-orange.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blueviolet.svg)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord-py-7289DA?logo=discord&logoColor=white)
+---
 
+</div>
 Welcome to my **SideProjects** repository! This is a collection of various experiments, scripts, and prototypes. It serves as a personal sandbox where I explore new ideas, refine my coding skills, and build small-scale and big-scale tools.
 
 ## 🤖 Featured Projects
